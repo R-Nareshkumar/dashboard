@@ -1,5 +1,5 @@
-Desktop Dashboard UI
-https://dashboard-41d34.web.app
+Desktop [Dashboard UI](https://finance-dashboard-ui.web.app)
+
 
 A sleek and responsive dashboard designed exclusively for desktop browsers, created using only HTML and CSS. This project highlights a modern interface for displaying data and analytics in a visually appealing layout.
 Features
